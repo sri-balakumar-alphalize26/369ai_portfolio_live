@@ -2,7 +2,7 @@
   "meta": {
     "locale": "English",
     "region": "Global",
-    "siteTitle": "369AI — Intelligent POS, ERP & Automation"
+    "siteTitle": "369AI — Smart POS, Kiosks & Business Automation"
   },
   "brand": {
     "switchLabel": "Switch product",
@@ -73,7 +73,7 @@
     "pillarsTitle": "One connected platform",
     "pillarsBody": "Every part of the 369AI stack talks to every other part — so your counter, your warehouse and your back office all see the same numbers.",
     "servicesEyebrow": "Our Services",
-    "servicesTitle": "Delivering excellence across every service",
+    "servicesTitle": "POS, IoT and automation services",
     "statsTitle": "Trusted by businesses across four countries",
     "clientsTitle": "What our clients say",
     "clientsBody": "Shops, restaurants and showrooms running our software, hardware, robots and lockers every day.",
@@ -135,7 +135,7 @@
       "body": "Smart vending, cloud controlled."
     },
     "erp": {
-      "title": "ERP & Business Management Integration",
+      "title": "ERP Integration for POS & Devices",
       "body": "One platform. Every department. Unified."
     }
   },
@@ -147,7 +147,7 @@
   },
   "services": {
     "eyebrow": "Our Services",
-    "title": "Delivering excellence across every service",
+    "title": "POS, IoT and automation services",
     "body": "From the counter to the cloud, we cover the whole stack — and we stay with you after go-live.",
     "iot": {
       "title": "IoT-Enabled Vending & Smart Devices",
@@ -160,7 +160,7 @@
       "body": "Go beyond transactions with advanced analytics, automated reporting and integrated loyalty programs that empower your teams, delight your customers and maximize profitability. Whether you are managing a single store or scaling across multiple locations, our cloud-driven platform ensures agility, transparency and control."
     },
     "erp": {
-      "title": "ERP & Business Management Integration",
+      "title": "ERP Integration for POS & Devices",
       "lead": "Unify every department — sales, accounts, HR and inventory — under one powerful ERP platform.",
       "body": "By bringing all your core business functions together in a single, integrated system, you eliminate silos and ensure seamless collaboration across teams. Real-time data sharing empowers smarter decision-making, while automated workflows reduce manual effort and errors."
     },

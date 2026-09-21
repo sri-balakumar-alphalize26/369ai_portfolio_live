@@ -2,7 +2,7 @@
   "meta": {
     "locale": "Deutsch",
     "region": "Deutschland",
-    "siteTitle": "369AI — Intelligente Kassensysteme, ERP & Automatisierung"
+    "siteTitle": "369AI — Smarte Kassensysteme, Kioske & Automatisierung"
   },
   "brand": {
     "switchLabel": "Produkt wechseln",
@@ -73,7 +73,7 @@
     "pillarsTitle": "Eine vernetzte Plattform",
     "pillarsBody": "Jeder Teil von 369AI spricht mit jedem anderen — Kasse, Lager und Backoffice sehen dieselben Zahlen.",
     "servicesEyebrow": "Unsere Leistungen",
-    "servicesTitle": "Exzellenz in jeder Leistung",
+    "servicesTitle": "POS-, IoT- und Automatisierungsleistungen",
     "statsTitle": "Vertrauen von Unternehmen in vier Ländern",
     "clientsTitle": "Was unsere Kunden sagen",
     "clientsBody": "Läden, Restaurants und Showrooms, die unsere Software, Hardware, Roboter und Schließfächer täglich einsetzen.",
@@ -135,7 +135,7 @@
       "body": "Smarte Automaten, cloudgesteuert."
     },
     "erp": {
-      "title": "ERP- und Unternehmensintegration",
+      "title": "ERP-Integration für Kassen & Geräte",
       "body": "Eine Plattform. Alle Abteilungen. Vereint."
     }
   },
@@ -147,7 +147,7 @@
   },
   "services": {
     "eyebrow": "Unsere Leistungen",
-    "title": "Exzellenz in jeder Leistung",
+    "title": "POS-, IoT- und Automatisierungsleistungen",
     "body": "Von der Kasse bis zur Cloud decken wir den gesamten Stack ab — und bleiben auch nach dem Go-live an Ihrer Seite.",
     "iot": {
       "title": "IoT-Automaten und smarte Geräte",
@@ -160,7 +160,7 @@
       "body": "Gehen Sie über die reine Transaktion hinaus — mit fortschrittlichen Analysen, automatisierten Berichten und integrierten Treueprogrammen, die Ihre Teams stärken, Ihre Kunden begeistern und Ihre Rentabilität maximieren. Ob Sie ein einzelnes Geschäft führen oder über mehrere Standorte skalieren: Unsere cloudbasierte Plattform sorgt für Agilität, Transparenz und Kontrolle."
     },
     "erp": {
-      "title": "ERP- und Unternehmensintegration",
+      "title": "ERP-Integration für Kassen & Geräte",
       "lead": "Vereinen Sie alle Abteilungen — Vertrieb, Buchhaltung, Personal und Lager — auf einer leistungsstarken ERP-Plattform.",
       "body": "Indem Sie alle zentralen Geschäftsfunktionen in einem einzigen, integrierten System bündeln, beseitigen Sie Silos und ermöglichen eine reibungslose Zusammenarbeit über Teams hinweg. Datenaustausch in Echtzeit sorgt für klügere Entscheidungen, während automatisierte Workflows manuellen Aufwand und Fehler reduzieren."
     },

@@ -1,5 +1,4 @@
 import { CONTACT, OFFICES, mapsUrl, type Office } from '@/content/offices'
-import { SOCIALS } from '@/content/socials'
 import { primaryCategory, type Product } from '@/lib/products'
 import { SITE_URL } from '@/lib/site'
 
@@ -81,18 +80,27 @@ export function organizationJsonLd(description: string) {
       areaServed: [...new Set(OFFICES.map((o) => o.countryCode.toUpperCase()))],
     },
     /**
-     * The footer accounts, plus the company's second YouTube channel.
+     * 369AI's own channel, and only that.
      *
-     * SOCIALS carries "Shan on Tech", which hosts the six videos the site
-     * embeds. @369AIbiz is the other channel, and it is currently the top
-     * result for the brand name — the strongest property pointing at this
-     * entity, so leaving it out of sameAs threw that signal away.
+     * This deliberately does NOT spread SOCIALS. That list is the group's
+     * shared accounts, and three of the four are branded Alphalize — the
+     * Instagram is `alphalize_technologies`, the LinkedIn is
+     * `company/alphalize`, and "Shan on Tech" is the channel hosting the videos
+     * this site embeds. Listing them here told Google that 369AI and Alphalize
+     * are one organisation, because `sameAs` asserts that *this* entity owns
+     * *these* profiles.
      *
-     * Added here rather than in content/socials.ts on purpose: that list draws
-     * the footer, and two YouTube icons side by side would be wrong. This is an
-     * entity signal, not a link for visitors.
+     * That merge is actively harmful now the two sites are positioned apart:
+     * Alphalize owns ERP and business intelligence, 369AI owns POS, kiosks and
+     * smart devices. Two sites from one operation competing for one term means
+     * Google ranks one and suppresses the other, so the entities have to read
+     * as distinct.
+     *
+     * SOCIALS itself is untouched — the footer showing the group's real
+     * accounts is correct. This is the same separation the previous note here
+     * drew: an entity signal is not a link for visitors.
      */
-    sameAs: [...SOCIALS.map((s) => s.href), 'https://www.youtube.com/@369AIbiz'],
+    sameAs: ['https://www.youtube.com/@369AIbiz'],
   }
 }
 

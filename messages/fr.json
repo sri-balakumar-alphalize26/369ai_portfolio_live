@@ -2,7 +2,7 @@
   "meta": {
     "locale": "Français",
     "region": "France",
-    "siteTitle": "369AI — PDV, ERP et automatisation intelligents"
+    "siteTitle": "369AI — PDV, bornes et automatisation d’entreprise"
   },
   "brand": {
     "switchLabel": "Changer de produit",
@@ -73,7 +73,7 @@
     "pillarsTitle": "Une plateforme connectée",
     "pillarsBody": "Chaque brique de 369AI dialogue avec les autres — votre caisse, votre entrepôt et votre back-office voient les mêmes chiffres.",
     "servicesEyebrow": "Nos services",
-    "servicesTitle": "L’excellence sur chaque service",
+    "servicesTitle": "Services PDV, IoT et automatisation",
     "statsTitle": "La confiance d’entreprises dans quatre pays",
     "clientsTitle": "Ce que disent nos clients",
     "clientsBody": "Boutiques, restaurants et showrooms qui utilisent nos logiciels, notre matériel, nos robots et nos casiers chaque jour.",
@@ -135,7 +135,7 @@
       "body": "Distribution intelligente, pilotée dans le cloud."
     },
     "erp": {
-      "title": "Intégration ERP et gestion d’entreprise",
+      "title": "Intégration ERP pour PDV et appareils",
       "body": "Une plateforme. Tous les services. Unifiés."
     }
   },
@@ -147,7 +147,7 @@
   },
   "services": {
     "eyebrow": "Nos services",
-    "title": "L’excellence sur chaque service",
+    "title": "Services PDV, IoT et automatisation",
     "body": "Du comptoir au cloud, nous couvrons toute la chaîne — et nous restons à vos côtés après la mise en service.",
     "iot": {
       "title": "Distribution et objets connectés",
@@ -160,7 +160,7 @@
       "body": "Allez au-delà des transactions grâce aux analyses avancées, aux rapports automatisés et aux programmes de fidélité intégrés qui renforcent vos équipes, ravissent vos clients et maximisent la rentabilité. Que vous gériez un seul magasin ou plusieurs sites, notre plateforme cloud garantit agilité, transparence et contrôle."
     },
     "erp": {
-      "title": "Intégration ERP et gestion d’entreprise",
+      "title": "Intégration ERP pour PDV et appareils",
       "lead": "Unifiez tous vos services — ventes, comptabilité, RH et stocks — sur une seule plateforme ERP puissante.",
       "body": "En réunissant toutes vos fonctions clés dans un système unique et intégré, vous éliminez les silos et assurez une collaboration fluide entre les équipes. Le partage des données en temps réel favorise des décisions plus avisées, tandis que les flux automatisés réduisent les tâches manuelles et les erreurs."
     },
